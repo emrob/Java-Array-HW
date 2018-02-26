@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Magic8.iml" filepath="$PROJECT_DIR$/.idea/modules/Magic8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Magic8_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Magic8_main.iml" group="Magic8" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Magic8_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Magic8_test.iml" group="Magic8" />
+    </modules>
+  </component>
+</project>
